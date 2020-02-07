@@ -1,5 +1,5 @@
 #!/bin/bash
-# Authors : aaron mankel solo
+# Authors : aaron mankel , JunZhen Wang
 # Date: 2/7/2020
 
 #Problem 1 Code:
